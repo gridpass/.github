@@ -1,6 +1,3 @@
-
-
-[Data centre datasets](https://github.com/gridpass/data-center-datasets) — catalog of power, cooling and workload datasets.
 # GridPass
 
 GridPass focuses on grid capacity and flexible connections for factories and data centres.
@@ -9,6 +6,7 @@ We review site demand, connection terms and options for using available capacity
 
 ## Explore
 
+- [Data centre datasets](https://github.com/gridpass/data-center-datasets) — catalog of power, cooling and workload datasets.
 - [GridPass website](https://gridpass.co) — site reviews, connection options and the load-balancing model.
 - [GridPass examples](https://github.com/gridpass/examples) — illustrative examples of grid-responsive AI data centre operation, including synthetic meter data and analysis.
 
